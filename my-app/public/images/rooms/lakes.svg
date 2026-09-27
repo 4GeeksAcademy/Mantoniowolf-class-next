@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Lakeside retreat</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ec7ea"/>
+      <stop offset="1" stop-color="#e8f0f7"/>
+    </linearGradient>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4fa3c9"/>
+      <stop offset="1" stop-color="#2c6f92"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="180" cy="120" r="48" fill="#ffe08a"/>
+  <path d="M0 250 L170 120 L320 250 Z" fill="#6b8a68"/>
+  <rect y="330" width="800" height="150" fill="url(#lake)"/>
+  <rect y="480" width="800" height="120" fill="#3f6b3f"/>
+  <rect x="540" y="210" width="190" height="140" rx="6" fill="#f3e8d5"/>
+  <polygon points="525,220 635,150 745,220" fill="#9c6540"/>
+  <rect x="700" y="300" width="20" height="50" fill="#5b3a1e"/>
+  <rect x="575" y="250" width="45" height="45" fill="#79aee0"/>
+  <path d="M340 380 q40 -30 80 0 q40 30 80 0" stroke="#cfe8f7" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

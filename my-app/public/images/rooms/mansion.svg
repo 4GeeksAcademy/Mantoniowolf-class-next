@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Mansion</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7c873"/>
+      <stop offset="1" stop-color="#fdeebc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="680" cy="120" r="52" fill="#fff6d8"/>
+  <rect y="440" width="800" height="160" fill="#73995c"/>
+  <circle cx="120" cy="470" r="16" fill="#4a7a3a"/>
+  <circle cx="180" cy="470" r="12" fill="#4a7a3a"/>
+  <circle cx="90" cy="505" r="10" fill="#4a7a3a"/>
+  <rect x="200" y="300" width="400" height="220" rx="8" fill="#fdfdf5"/>
+  <rect x="520" y="360" width="90" height="160" fill="#fdfdf5"/>
+  <rect x="190" y="360" width="80" height="160" fill="#fdfdf5"/>
+  <polygon points="170,310 400,200 630,310" fill="#b0563c"/>
+  <rect x="350" y="400" width="80" height="120" rx="4" fill="#4a2a16"/>
+  <rect x="240" y="350" width="70" height="70" fill="#7fb7e0"/>
+  <rect x="330" y="350" width="70" height="70" fill="#7fb7e0"/>
+  <rect x="440" y="350" width="70" height="70" fill="#7fb7e0"/>
+</svg>

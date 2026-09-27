@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Tiny home</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a6c8e8"/>
+      <stop offset="1" stop-color="#e4eef7"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <rect y="470" width="800" height="130" fill="#7a9c5a"/>
+  <rect x="280" y="330" width="240" height="180" rx="6" fill="#f3e8d5"/>
+  <polygon points="260,340 400,250 540,340" fill="#9c6540"/>
+  <rect x="372" y="420" width="40" height="90" rx="3" fill="#5b3a1e"/>
+  <rect x="310" y="370" width="50" height="50" fill="#79aee0"/>
+  <circle cx="610" cy="480" r="8" fill="#3f6b3f"/>
+  <circle cx="620" cy="465" r="8" fill="#3f6b3f"/>
+  <circle cx="625" cy="495" r="8" fill="#3f6b3f"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Cabin in the mountains</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7cc4f0"/>
+      <stop offset="1" stop-color="#cfe8fb"/>
+    </linearGradient>
+    <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b7c99"/>
+      <stop offset="1" stop-color="#3d5a73"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="650" cy="130" r="45" fill="#ffd98a"/>
+  <path d="M0 340 L190 180 L330 300 L420 220 L560 330 L660 250 L800 340 L800 460 L0 460 Z" fill="url(#mount)"/>
+  <rect y="430" width="800" height="170" fill="#3f6b3f"/>
+  <rect x="150" y="330" width="500" height="260" rx="6" fill="#8a5a3b"/>
+  <polygon points="120,340 400,240 680,340" fill="#63391f"/>
+  <rect x="365" y="430" width="70" height="90" rx="4" fill="#4a2a16"/>
+  <rect x="320" y="360" width="160" height="90" rx="4" fill="#b98a5e"/>
+  <rect x="330" y="370" width="40" height="40" fill="#8ad0ff"/>
+  <rect x="380" y="370" width="40" height="40" fill="#8ad0ff"/>
+</svg>
